@@ -1,0 +1,208 @@
+{"level":"info","message":"/api/user/signup-{\"name\":\"aryan\",\"email\":\"aryan@gmail.com\",\"password\":\"aryan1\",\"type\":\"customer\"}","service":"request-logging"}
+{"level":"info","message":"/api/user/signin-{\"email\":\"aryan@gmail.com\",\"password\":\"aryan1\"}","service":"request-logging"}
+{"level":"info","message":"/api/products-{\"id\":1,\"name\":\"Product 1\",\"desc\":\"Description for Product 1\",\"price\":\"category 1\",\"imageURL\":19.99,\"category\":\"https://m.media-amazon.com/images/I/51KkT9Z1kGL._SY445_SX342_.jpg\"}","service":"request-logging"}
+{"level":"info","message":"/-{\"id\":1,\"name\":\"Product 1\",\"desc\":\"Description for Product 1\",\"price\":\"category 1\",\"imageURL\":19.99,\"category\":\"https://m.media-amazon.com/images/I/51KkT9Z1kGL._SY445_SX342_.jpg\"}","service":"request-logging"}
+{"level":"info","message":"/api/user/signin-{\"email\":\"aryan@gmail.com\",\"password\":\"aryan1\"}","service":"request-logging"}
+{"level":"info","message":"/api/products-{}","service":"request-logging"}
+{"level":"info","message":"/-{}","service":"request-logging"}
+{"level":"info","message":"/api/carts?productID=1&quantity=2-{}","service":"request-logging"}
+{"level":"info","message":"/api/carts-{}","service":"request-logging"}
+{"level":"info","message":"/api/products/filter?minprice=0&maxprice=10&Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc2VySUQiOjMsImVtYWlsIjoiYXJ5YW5AZ21haWwuY29tIiwiaWF0IjoxNzE3NzcyNDI0LCJleHAiOjE3MTc4MDg0MjR9.Ecju8G8t4mQCyU6fNKRvsto_fL_LSlDr_SMk7s4T06Y-{}","service":"request-logging"}
+{"level":"info","message":"/filter?minprice=0&maxprice=10&Authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc2VySUQiOjMsImVtYWlsIjoiYXJ5YW5AZ21haWwuY29tIiwiaWF0IjoxNzE3NzcyNDI0LCJleHAiOjE3MTc4MDg0MjR9.Ecju8G8t4mQCyU6fNKRvsto_fL_LSlDr_SMk7s4T06Y-{}","service":"request-logging"}
+{"level":"info","message":"/api/user/signin-{\"email\":\"seller@ecom.com\",\"password\":\"password1\"}","service":"request-logging"}
+{"level":"info","message":"/api/products-{\"id\":1,\"name\":\"Product 1\",\"desc\":\"Description for Product 1\",\"price\":\"category 1\",\"imageURL\":19.99,\"category\":\"https://m.media-amazon.com/images/I/51KkT9Z1kGL._SY445_SX342_.jpg\"}","service":"request-logging"}
+{"level":"info","message":"/-{\"id\":1,\"name\":\"Product 1\",\"desc\":\"Description for Product 1\",\"price\":\"category 1\",\"imageURL\":19.99,\"category\":\"https://m.media-amazon.com/images/I/51KkT9Z1kGL._SY445_SX342_.jpg\"}","service":"request-logging"}
+{"level":"info","message":"/api/products-{}","service":"request-logging"}
+{"level":"info","message":"/-{}","service":"request-logging"}
+{"level":"info","message":"/api/products/rate?userID=2&productID=1&rating=3-{}","service":"request-logging"}
+{"level":"info","message":"/rate?userID=2&productID=1&rating=3-{}","service":"request-logging"}
+{"level":"info","message":"/api/products/rate?userID=2&productID=2&rating=3-{}","service":"request-logging"}
+{"level":"info","message":"/rate?userID=2&productID=2&rating=3-{}","service":"request-logging"}
+{"level":"info","message":"/api/products/rate?userID=10&productID=1&rating=3-{}","service":"request-logging"}
+{"level":"info","message":"/rate?userID=10&productID=1&rating=3-{}","service":"request-logging"}
+{"level":"info","message":"/api/products/filter?minPrice=20&maxPrice=30-{}","service":"request-logging"}
+{"level":"info","message":"/filter?minPrice=20&maxPrice=30-{}","service":"request-logging"}
+{"level":"info","message":"/api/products-{}","service":"request-logging"}
+{"level":"info","message":"/-{}","service":"request-logging"}
+{"level":"info","message":"/api/products-{}","service":"request-logging"}
+{"level":"info","message":"/-{}","service":"request-logging"}
+{"level":"info","message":"/api/product-{}","service":"request-logging"}
+{"level":"info","message":"/api/products-{}","service":"request-logging"}
+{"level":"info","message":"/-{}","service":"request-logging"}
+{"level":"info","message":"/api/products-{}","service":"request-logging"}
+{"level":"info","message":"/-{}","service":"request-logging"}
+{"level":"info","message":"/api/products-{}","service":"request-logging"}
+{"level":"info","message":"/-{}","service":"request-logging"}
+{"level":"info","message":"/api/products/rate?userID=1&productID=1&rating=3-{}","service":"request-logging"}
+{"level":"info","message":"/rate?userID=1&productID=1&rating=3-{}","service":"request-logging"}
+{"level":"info","message":"/api/products/rate?userID=1&productID=1&rating=3-{}","service":"request-logging"}
+{"level":"info","message":"/rate?userID=1&productID=1&rating=3-{}","service":"request-logging"}
+{"level":"info","message":"/api/products/filter?minprice=30&maxprice=40-{}","service":"request-logging"}
+{"level":"info","message":"/filter?minprice=30&maxprice=40-{}","service":"request-logging"}
+{"level":"info","message":"/api/products/rate?userID=2&productID=1&rating=3-{}","service":"request-logging"}
+{"level":"info","message":"/rate?userID=2&productID=1&rating=3-{}","service":"request-logging"}
+{"level":"info","message":"/api/products/rate?productID=2&userID=1&rating=5-{}","service":"request-logging"}
+{"level":"info","message":"/rate?productID=2&userID=1&rating=5-{}","service":"request-logging"}
+{"level":"info","message":"/api/products/rate?productID=2&userID=11&rating=5-{}","service":"request-logging"}
+{"level":"info","message":"/rate?productID=2&userID=11&rating=5-{}","service":"request-logging"}
+{"level":"info","message":"/api/products/rate?productID=2&userID=11&rating=5-{}","service":"request-logging"}
+{"level":"info","message":"/rate?productID=2&userID=11&rating=5-{}","service":"request-logging"}
+{"level":"info","message":"/api/product/rate?productID=2&userID=11&rating=5-{}","service":"request-logging"}
+{"level":"info","message":"/api/products/rate?productID=2&userID=11&rating=5-{}","service":"request-logging"}
+{"level":"info","message":"/rate?productID=2&userID=11&rating=5-{}","service":"request-logging"}
+{"level":"info","message":"/api/products/rate?productID=2&userID=1&rating=5-{}","service":"request-logging"}
+{"level":"info","message":"/rate?productID=2&userID=1&rating=5-{}","service":"request-logging"}
+{"level":"info","message":"/api/products/rate?productID=2&userID=1&rating=5-{}","service":"request-logging"}
+{"level":"info","message":"/rate?productID=2&userID=1&rating=5-{}","service":"request-logging"}
+{"level":"info","message":"/api/products/rate?productID=20&userID=1&rating=5-{}","service":"request-logging"}
+{"level":"info","message":"/rate?productID=20&userID=1&rating=5-{}","service":"request-logging"}
+{"level":"info","message":"/api/products/rate?productID=20&userID=1&rating=5-{}","service":"request-logging"}
+{"level":"info","message":"/rate?productID=20&userID=1&rating=5-{}","service":"request-logging"}
+{"level":"info","message":"/api/products/rate?productID=2&userID=11&rating=5-{}","service":"request-logging"}
+{"level":"info","message":"/rate?productID=2&userID=11&rating=5-{}","service":"request-logging"}
+{"level":"info","message":"/api/products/rate?productID=2&userID=11&rating=5-{}","service":"request-logging"}
+{"level":"info","message":"/rate?productID=2&userID=11&rating=5-{}","service":"request-logging"}
+{"level":"info","message":"/api/products/rate?productID=2&userID=11&rating=5-{}","service":"request-logging"}
+{"level":"info","message":"/rate?productID=2&userID=11&rating=5-{}","service":"request-logging"}
+{"level":"info","message":"/api/products/rate?productID=2&userID=1&rating=5-{}","service":"request-logging"}
+{"level":"info","message":"/rate?productID=2&userID=1&rating=5-{}","service":"request-logging"}
+{"level":"info","message":"/api/products/rate?productID=2&userID=1&rating=5-{}","service":"request-logging"}
+{"level":"info","message":"/rate?productID=2&userID=1&rating=5-{}","service":"request-logging"}
+{"level":"info","message":"/api/user/signup-{\"name\":\"aryan\",\"email\":\"aryan@gmail.com\",\"password\":\"aryan1\",\"type\":\"customer\"}","service":"request-logging"}
+{"level":"info","message":"/api/user/signup-{\"name\":\"sahil\",\"email\":\"sahil@gmail.com\",\"password\":\"sahil1\",\"type\":\"customer\"}","service":"request-logging"}
+{"level":"info","message":"/api/user/signup-{\"name\":\"sahil\",\"email\":\"sahil@gmail.com\",\"password\":\"sahil1\",\"type\":\"customer\"}","service":"request-logging"}
+{"level":"info","message":"/api/user/signup-{\"name\":\"sahil\",\"email\":\"sahil@gmail.com\",\"password\":\"sahil1\",\"type\":\"customer\"}","service":"request-logging"}
+{"level":"info","message":"/api/user/signup-{\"name\":\"sahil\",\"email\":\"sahil@gmail.com\",\"password\":\"sahil1\",\"type\":\"customer\"}","service":"request-logging"}
+{"level":"info","message":"/api/user/signup-{\"name\":\"sahil\",\"email\":\"sahil@gmail.com\",\"password\":\"sahil1\",\"type\":\"customer\"}","service":"request-logging"}
+{"level":"info","message":"/api/user/signup-{\"name\":\"sahil\",\"email\":\"sahil@gmail.com\",\"password\":\"sahil1\",\"type\":\"customer\"}","service":"request-logging"}
+{"level":"info","message":"/api/user/signup-{\"name\":\"sahil\",\"email\":\"sahil@gmail.com\",\"password\":\"sahil1\",\"type\":\"customer\"}","service":"request-logging"}
+{"level":"info","message":"/api/user/signup-{\"name\":\"sahil\",\"email\":\"sahil@gmail.com\",\"password\":\"sahil1\",\"type\":\"customer\"}","service":"request-logging"}
+{"level":"info","message":"/api/user/signup-{\"name\":\"sahil\",\"email\":\"sahil@gmail.com\",\"password\":\"sahil1\",\"type\":\"customer\"}","service":"request-logging"}
+{"level":"info","message":"/api/user/signin-{\"email\":\"sahil@gmail.com\",\"password\":\"sahil1\"}","service":"request-logging"}
+{"level":"info","message":"/api/user/signup-{\"name\":\"sahil\",\"email\":\"sahil@gmail.com\",\"password\":\"sahil1\",\"type\":\"customer\"}","service":"request-logging"}
+{"level":"info","message":"/api/user/signup-{\"name\":\"sahil1\",\"email\":\"sahil1@gmail.com\",\"password\":\"sahil2\",\"type\":\"customer\"}","service":"request-logging"}
+{"level":"info","message":"/api/user/signup-{\"name\":\"sahil1\",\"email\":\"sahil1@gmail.com\",\"password\":\"sahil2\",\"type\":\"customer\"}","service":"request-logging"}
+{"level":"info","message":"/api/user/signin-{\"email\":\"sahil1@gmail.com\",\"password\":\"sahil2\"}","service":"request-logging"}
+{"level":"info","message":"/api/user/signin-{\"email\":\"sahil1@gmail.com\",\"password\":\"sahil2\"}","service":"request-logging"}
+{"level":"info","message":"/api/user/signin-{\"email\":\"sahil1@gmail.com\",\"password\":\"sahil1\"}","service":"request-logging"}
+{"level":"info","message":"/api/user/signin-{\"email\":\"sahil1@gmail.com\",\"password\":\"sahil3\"}","service":"request-logging"}
+{"level":"info","message":"/api/user/signin-{\"email\":\"sahil1@gmail.com\",\"password\":\"sahil2\"}","service":"request-logging"}
+{"level":"info","message":"/api/user/signin-{\"email\":\"sahil1@gmail.com\",\"password\":\"sahil1\"}","service":"request-logging"}
+{"level":"info","message":"/api/user/signin-{\"email\":\"aryan@gmail.com\",\"password\":\"aryan1\"}","service":"request-logging"}
+{"level":"info","message":"/api/user/signin-{\"email\":\"aryan@gmail.com\",\"password\":\"aryan\"}","service":"request-logging"}
+{"level":"info","message":"/api/user/signin-{\"email\":\"aryan@gmail.com\",\"password\":\"aryan\"}","service":"request-logging"}
+{"level":"info","message":"/api/user/signin-{\"email\":\"aryan@gmail.com\",\"password\":\"aryan1\"}","service":"request-logging"}
+{"level":"info","message":"/api/user/signin-{\"email\":\"aryan@gmail.com\",\"password\":\"aryan1\"}","service":"request-logging"}
+{"level":"info","message":"/api/user/signin-{\"email\":\"aryan@gmail.com\",\"password\":\"aryan1\"}","service":"request-logging"}
+{"level":"info","message":"/api/user/signup-{\"name\":\"aryan2\",\"email\":\"aryan2@gmail.com\",\"password\":\"aryan2\",\"type\":\"customer\"}","service":"request-logging"}
+{"level":"info","message":"/api/user/signin-{\"email\":\"aryan2@gmail.com\",\"password\":\"aryan2\"}","service":"request-logging"}
+{"level":"info","message":"/api/user/signin-{\"email\":\"aryan2@gmail.com\",\"password\":\"aryan\"}","service":"request-logging"}
+{"level":"info","message":"/api/user/signin-{\"email\":\"aryan2@gmail.com\",\"password\":\"aryan1\"}","service":"request-logging"}
+{"level":"info","message":"/api/user/signin-{\"email\":\"aryan2@gmail.com\",\"password\":\"sahil1\"}","service":"request-logging"}
+{"level":"info","message":"/api/user/signin-{\"email\":\"aryan2@gmail.com\",\"password\":\"sahil2\"}","service":"request-logging"}
+{"level":"info","message":"/api/user/signin-{\"email\":\"aryan2@gmail.com\",\"password\":\"aryan2\"}","service":"request-logging"}
+{"level":"info","message":"/api/user/signin-{\"email\":\"aryan2@gmail.com\",\"password\":\"aryan2\"}","service":"request-logging"}
+{"level":"info","message":"/api/user/signin-{\"email\":\"aryan2@gmail.com\",\"password\":\"aryan1\"}","service":"request-logging"}
+{"level":"info","message":"/api/user/signin-{\"email\":\"aryan2@gmail.com\",\"password\":\"aryan2\"}","service":"request-logging"}
+{"level":"info","message":"/api/products-{}","service":"request-logging"}
+{"level":"info","message":"/-{}","service":"request-logging"}
+{"level":"info","message":"/api/user/signin-{\"email\":\"aryan2@gmail.com\",\"password\":\"aryan2\"}","service":"request-logging"}
+{"level":"info","message":"/api/products/-{}","service":"request-logging"}
+{"level":"info","message":"/api/products/-{}","service":"request-logging"}
+{"level":"info","message":"/-{}","service":"request-logging"}
+{"level":"info","message":"/api/products/-{}","service":"request-logging"}
+{"level":"info","message":"/api/products/-{}","service":"request-logging"}
+{"level":"info","message":"/api/products/-{}","service":"request-logging"}
+{"level":"info","message":"/api/products/-{}","service":"request-logging"}
+{"level":"info","message":"/api/products/-{}","service":"request-logging"}
+{"level":"info","message":"/api/products/-{}","service":"request-logging"}
+{"level":"info","message":"/api/products/-{}","service":"request-logging"}
+{"level":"info","message":"/api/products/-{}","service":"request-logging"}
+{"level":"info","message":"/api/products/-{}","service":"request-logging"}
+{"level":"info","message":"/api/products/-{}","service":"request-logging"}
+{"level":"info","message":"/api/products/-{}","service":"request-logging"}
+{"level":"info","message":"/-{}","service":"request-logging"}
+{"level":"info","message":"/api/products/-{}","service":"request-logging"}
+{"level":"info","message":"/api/products-{}","service":"request-logging"}
+{"level":"info","message":"/-{}","service":"request-logging"}
+{"level":"info","message":"/api/user/signin-{\"email\":\"aryan2@gmail.com\",\"password\":\"aryan2\"}","service":"request-logging"}
+{"level":"info","message":"/api/products/-{}","service":"request-logging"}
+{"level":"info","message":"/api/products/-{}","service":"request-logging"}
+{"level":"info","message":"/-{}","service":"request-logging"}
+{"level":"info","message":"/api/user/signin-{\"email\":\"aryan2@gmail.com\",\"password\":\"aryan2\"}","service":"request-logging"}
+{"level":"info","message":"/api/products/-{}","service":"request-logging"}
+{"level":"info","message":"/api/products/-{}","service":"request-logging"}
+{"level":"info","message":"/api/products/-{}","service":"request-logging"}
+{"level":"info","message":"/api/products/-{\"name\":\"Product 2\",\"desc\":\"Description for Product 2\",\"prise\":\"9.99\",\"imageURL\":\"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fbd%2F7c%2Fbd7cd7da4b28c5e829c45688fae31bdfac5e53e0.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]\",\"category\":\"category 2\",\"sizes\":\"['S','M','L']\"}","service":"request-logging"}
+{"level":"info","message":"/-{\"name\":\"Product 2\",\"desc\":\"Description for Product 2\",\"prise\":\"9.99\",\"imageURL\":\"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fbd%2F7c%2Fbd7cd7da4b28c5e829c45688fae31bdfac5e53e0.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]\",\"category\":\"category 2\",\"sizes\":\"['S','M','L']\"}","service":"request-logging"}
+{"level":"info","message":"/api/products/-{\"name\":\"Product 2\",\"desc\":\"Description for Product 2\",\"price\":\"9.99\",\"imageURL\":\"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fbd%2F7c%2Fbd7cd7da4b28c5e829c45688fae31bdfac5e53e0.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]\",\"category\":\"category 2\",\"sizes\":\"['S','M','L']\"}","service":"request-logging"}
+{"level":"info","message":"/-{\"name\":\"Product 2\",\"desc\":\"Description for Product 2\",\"price\":\"9.99\",\"imageURL\":\"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fbd%2F7c%2Fbd7cd7da4b28c5e829c45688fae31bdfac5e53e0.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]\",\"category\":\"category 2\",\"sizes\":\"['S','M','L']\"}","service":"request-logging"}
+{"level":"info","message":"/api/products/-{\"name\":\"Product 2\",\"desc\":\"Description for Product 2\",\"price\":\"9.99\",\"imageURL\":\"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fbd%2F7c%2Fbd7cd7da4b28c5e829c45688fae31bdfac5e53e0.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]\",\"category\":\"category 2\",\"sizes\":\"['S','M','L']\"}","service":"request-logging"}
+{"level":"info","message":"/api/products/-{\"name\":\"Product 2\",\"desc\":\"Description for Product 2\",\"price\":\"9.99\",\"imageURL\":\"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fbd%2F7c%2Fbd7cd7da4b28c5e829c45688fae31bdfac5e53e0.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]\",\"category\":\"category 2\",\"sizes\":\"['S','M','L']\"}","service":"request-logging"}
+{"level":"info","message":"/-{\"name\":\"Product 2\",\"desc\":\"Description for Product 2\",\"price\":\"9.99\",\"imageURL\":\"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fbd%2F7c%2Fbd7cd7da4b28c5e829c45688fae31bdfac5e53e0.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]\",\"category\":\"category 2\",\"sizes\":\"['S','M','L']\"}","service":"request-logging"}
+{"level":"info","message":"/api/products/667ec3093693a9ff6bd31eeb-{\"name\":\"Product 2\",\"desc\":\"Description for Product 2\",\"price\":\"9.99\",\"imageURL\":\"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fbd%2F7c%2Fbd7cd7da4b28c5e829c45688fae31bdfac5e53e0.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]\",\"category\":\"category 2\",\"sizes\":\"['S','M','L']\"}","service":"request-logging"}
+{"level":"info","message":"/667ec3093693a9ff6bd31eeb-{\"name\":\"Product 2\",\"desc\":\"Description for Product 2\",\"price\":\"9.99\",\"imageURL\":\"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fbd%2F7c%2Fbd7cd7da4b28c5e829c45688fae31bdfac5e53e0.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]\",\"category\":\"category 2\",\"sizes\":\"['S','M','L']\"}","service":"request-logging"}
+{"level":"info","message":"/api/products/667ec3093693a9ff6bd31eeb-{\"name\":\"Product 2\",\"desc\":\"Description for Product 2\",\"price\":\"9.99\",\"imageURL\":\"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fbd%2F7c%2Fbd7cd7da4b28c5e829c45688fae31bdfac5e53e0.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]\",\"category\":\"category 2\",\"sizes\":\"['S','M','L']\"}","service":"request-logging"}
+{"level":"info","message":"/api/products/-{}","service":"request-logging"}
+{"level":"info","message":"/-{}","service":"request-logging"}
+{"level":"info","message":"/api/products/-{}","service":"request-logging"}
+{"level":"info","message":"/-{}","service":"request-logging"}
+{"level":"info","message":"/api/products/667ec3093693a9ff6bd31eeb-{}","service":"request-logging"}
+{"level":"info","message":"/api/products/667ec3093693a9ff6bd31eeb-{}","service":"request-logging"}
+{"level":"info","message":"/api/products/667ec3093693a9ff6bd31eeb-{}","service":"request-logging"}
+{"level":"info","message":"/667ec3093693a9ff6bd31eeb-{}","service":"request-logging"}
+{"level":"info","message":"/api/products-{}","service":"request-logging"}
+{"level":"info","message":"/-{}","service":"request-logging"}
+{"level":"info","message":"/api/products-{}","service":"request-logging"}
+{"level":"info","message":"/-{}","service":"request-logging"}
+{"level":"info","message":"/api/products-{\"name\":\"Product 2\",\"desc\":\"Description for Product 2\",\"price\":\"9.99\",\"imageURL\":\"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fbd%2F7c%2Fbd7cd7da4b28c5e829c45688fae31bdfac5e53e0.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]\",\"category\":\"category 2\",\"sizes\":\"'S','M','L'\"}","service":"request-logging"}
+{"level":"info","message":"/-{\"name\":\"Product 2\",\"desc\":\"Description for Product 2\",\"price\":\"9.99\",\"imageURL\":\"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fbd%2F7c%2Fbd7cd7da4b28c5e829c45688fae31bdfac5e53e0.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]\",\"category\":\"category 2\",\"sizes\":\"'S','M','L'\"}","service":"request-logging"}
+{"level":"info","message":"/api/products-{\"name\":\"Product 2\",\"desc\":\"Description for Product 2\",\"price\":\"9.99\",\"imageURL\":\"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fbd%2F7c%2Fbd7cd7da4b28c5e829c45688fae31bdfac5e53e0.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]\",\"category\":\"category 2\",\"sizes\":\"'S','M','L'\"}","service":"request-logging"}
+{"level":"info","message":"/-{\"name\":\"Product 2\",\"desc\":\"Description for Product 2\",\"price\":\"9.99\",\"imageURL\":\"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fbd%2F7c%2Fbd7cd7da4b28c5e829c45688fae31bdfac5e53e0.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]\",\"category\":\"category 2\",\"sizes\":\"'S','M','L'\"}","service":"request-logging"}
+{"level":"info","message":"/api/products-{\"name\":\"Product 2\",\"desc\":\"Description for Product 2\",\"price\":\"9.99\",\"imageURL\":\"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fbd%2F7c%2Fbd7cd7da4b28c5e829c45688fae31bdfac5e53e0.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]\",\"category\":\"category 2\",\"sizes\":\"['S','M','L']\"}","service":"request-logging"}
+{"level":"info","message":"/-{\"name\":\"Product 2\",\"desc\":\"Description for Product 2\",\"price\":\"9.99\",\"imageURL\":\"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fbd%2F7c%2Fbd7cd7da4b28c5e829c45688fae31bdfac5e53e0.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]\",\"category\":\"category 2\",\"sizes\":\"['S','M','L']\"}","service":"request-logging"}
+{"level":"info","message":"/api/user/signin-{\"email\":\"aryan2@gmail.com\",\"password\":\"aryan2\"}","service":"request-logging"}
+{"level":"info","message":"/api/products-{}","service":"request-logging"}
+{"level":"info","message":"/-{}","service":"request-logging"}
+{"level":"info","message":"/api/products-{}","service":"request-logging"}
+{"level":"info","message":"/-{}","service":"request-logging"}
+{"level":"info","message":"/api/products-{}","service":"request-logging"}
+{"level":"info","message":"/-{}","service":"request-logging"}
+{"level":"info","message":"/api/products-{}","service":"request-logging"}
+{"level":"info","message":"/-{}","service":"request-logging"}
+{"level":"info","message":"/api/products-{}","service":"request-logging"}
+{"level":"info","message":"/-{}","service":"request-logging"}
+{"level":"info","message":"/api/products-{}","service":"request-logging"}
+{"level":"info","message":"/-{}","service":"request-logging"}
+{"level":"info","message":"/api/products/filter?minprice=15000maxprice=25000-{}","service":"request-logging"}
+{"level":"info","message":"/api/products/filter?maxprice=25000&minprice=15000-{}","service":"request-logging"}
+{"level":"info","message":"/api/products/filter?maxprice=25000&minprice=15000-{}","service":"request-logging"}
+{"level":"info","message":"/filter?maxprice=25000&minprice=15000-{}","service":"request-logging"}
+{"level":"info","message":"/api/products/filter?maxprice=25000&minprice=15000-{}","service":"request-logging"}
+{"level":"info","message":"/filter?maxprice=25000&minprice=15000-{}","service":"request-logging"}
+{"level":"info","message":"/api/products/filter?maxprice=25000&minprice=15000-{}","service":"request-logging"}
+{"level":"info","message":"/filter?maxprice=25000&minprice=15000-{}","service":"request-logging"}
+{"level":"info","message":"/api/products/filter?maxprice=25000&minprice=0000-{}","service":"request-logging"}
+{"level":"info","message":"/filter?maxprice=25000&minprice=0000-{}","service":"request-logging"}
+{"level":"info","message":"/api/products/filter?maxprice=25000&minprice=10000-{}","service":"request-logging"}
+{"level":"info","message":"/filter?maxprice=25000&minprice=10000-{}","service":"request-logging"}
+{"level":"info","message":"/api/products/filter?maxprice=25000&minprice=10000-{}","service":"request-logging"}
+{"level":"info","message":"/filter?maxprice=25000&minprice=10000-{}","service":"request-logging"}
+{"level":"info","message":"/api/products/filter?maxprice=20000&minprice=10000-{}","service":"request-logging"}
+{"level":"info","message":"/filter?maxprice=20000&minprice=10000-{}","service":"request-logging"}
+{"level":"info","message":"/api/products/filter?maxprice=20000&minprice=10000-{}","service":"request-logging"}
+{"level":"info","message":"/filter?maxprice=20000&minprice=10000-{}","service":"request-logging"}
+{"level":"info","message":"/api/products/filter?maxprice=20000&minprice=10000-{}","service":"request-logging"}
+{"level":"info","message":"/filter?maxprice=20000&minprice=10000-{}","service":"request-logging"}
+{"level":"info","message":"/api/products/filter?maxprice=25000&minprice=10000-{}","service":"request-logging"}
+{"level":"info","message":"/filter?maxprice=25000&minprice=10000-{}","service":"request-logging"}
+{"level":"info","message":"/api/products/filter?maxprice=30000&minprice=10000-{}","service":"request-logging"}
+{"level":"info","message":"/filter?maxprice=30000&minprice=10000-{}","service":"request-logging"}
+{"level":"info","message":"/api/user/signin-{\"email\":\"aryan2@gmail.com\",\"password\":\"aryan2\"}","service":"request-logging"}
+{"level":"info","message":"/api/products/rate?productID=669bb19f4b0a5b53c673ef00&rating=3-{}","service":"request-logging"}
+{"level":"info","message":"/api/products/rate?productID=669bb19f4b0a5b53c673ef00&rating=3-{}","service":"request-logging"}
+{"level":"info","message":"/api/products/rate?productID=669bb19f4b0a5b53c673ef00&rating=3-{}","service":"request-logging"}
+{"level":"info","message":"/api/products/rate?productID=669bb19f4b0a5b53c673ef00&rating=3-{}","service":"request-logging"}
+{"level":"info","message":"/rate?productID=669bb19f4b0a5b53c673ef00&rating=3-{}","service":"request-logging"}
+{"level":"info","message":"/api/products/rate?productID=669bb19f4b0a5b53c673ef00&rating=3-{}","service":"request-logging"}
+{"level":"info","message":"/rate?productID=669bb19f4b0a5b53c673ef00&rating=3-{}","service":"request-logging"}
